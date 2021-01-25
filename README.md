@@ -7,3 +7,5 @@ This is to test symlinks in Working Copy.
 3. Commit this link.
 4. Finishing adding steps to this file & commit it.
 5. (Push to temporary GH repo.)
+6. Make `test` directory, repeat process but pasting link in that directory.
+7. (Push again.)
