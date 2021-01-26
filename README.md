@@ -9,3 +9,6 @@ This is to test symlinks in Working Copy.
 5. (Push to temporary GH repo.)
 6. Make `test` directory, repeat process but pasting link in that directory.
 7. (Push again.)
+8. (Beta version)
+9. Make `test/test.txt` and two links to it.
+10. Commit, push.
